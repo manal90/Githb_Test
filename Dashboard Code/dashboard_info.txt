@@ -1,6 +1,0 @@
-aws_access_key_id:AKIAJDUD5FH5U52F7NYQ
-aws_secret_access_key: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
-instance_id:i-f00e3137,i-f30e3134,i-e1be8126
-period:600
-region:us-west-2
-hours:2
